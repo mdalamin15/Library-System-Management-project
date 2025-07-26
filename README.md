@@ -92,6 +92,9 @@ SQL Developer | Data Analyst | AI & Business Intelligence Enthusiast
 
 ---
 
+![Language](https://img.shields.io/badge/Language-SQL-blue)
+
+
 ## 📌 Note
 
 This project is intended for educational and portfolio purposes to demonstrate SQL querying, data modeling, and real-world problem-solving using databases.
